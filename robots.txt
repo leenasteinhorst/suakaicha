@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kahfaqueip.esgbox.com/sitemap.xml
